@@ -1,5 +1,5 @@
 # Furniture-AR
-### Built on Unity/Vuforia
+##### Built on Unity/Vuforia
 
 Features-
 -Cross Platform Support: iOS, Android, Web, PS etc...  
